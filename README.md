@@ -66,7 +66,7 @@ $ docker-compose up
 
 **Azizul Hakim Shakil** - [@ShakilAzizul](https://twitter.com/ShakilAzizul) - azizulhakim.shakil18@gmail.com
 
-Project Link: [https://github.com/shakil18/django-app-hello](https://github.com/shakil18/django-app-hello)
+Project Link: [https://github.com/shakil18/Django-App-Hello](https://github.com/shakil18/Django-App-Hello)
 
 
 
